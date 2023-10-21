@@ -1,6 +1,10 @@
-Suco de goiaba
-2.5
-Suco de maracuja
-5.5
-Suco de uva
+Suco de Acerola
 1.5
+Suco de Caja
+2.5
+Suco de Goiaba
+2.5
+Suco de Maracuja
+2
+Suco de Tangerina
+2.5

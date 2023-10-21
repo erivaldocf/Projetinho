@@ -1,5 +1,7 @@
 #include <iostream>
-#include "funcs.hpp"
+#include "gerais.hpp"
+#include "cliente.hpp"
+#include "gerente.hpp"
 
 using namespace std;
 
